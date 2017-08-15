@@ -5,3 +5,5 @@ cryptographically-secure passwords, pronounceable passwords,
 pattern-based passwords, and passphrases consisting of words from word lists. 
 The tool provides lots of options to customize 
 passwords to the users’ various needs.
+
+![Alt text](Screenshot.png?raw=true "Project Screenshot")
